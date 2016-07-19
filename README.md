@@ -9,10 +9,10 @@ operating Frequency is 100pps. Current draw is 92mA.
 
 * Jumper Pin setting
 
-ULN2003 : Arduino UNO
-IN1 - D8
-IN2 - D9
-IN3 - D10
-IN4 - D11
-VCC - 5V 
-Gnd - gnd
+| ULN2003 | Arduino UNO |
+| IN1 | D8 |
+| IN2 | D9 |
+| IN3 | D10 |
+| IN4 | D11 |
+| VCC | 5V  |
+| Gnd | gnd |
