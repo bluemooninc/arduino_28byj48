@@ -1,6 +1,8 @@
 # Stepper Motor 28BYJ-48
 
-https://www.adafruit.com/product/858
+Parts data sheet below.
+[adafruit.com](https://www.adafruit.com/product/858)
+[instructables.com](http://www.instructables.com/id/BYJ48-Stepper-Motor/)
 
 ## Discription
 
